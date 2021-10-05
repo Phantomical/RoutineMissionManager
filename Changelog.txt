@@ -1,11 +1,15 @@
 ChangeLog
 
-0.0.4.1
+0.4.0.2
+	Added AssemblyFileVersion
+	Updated version file for 1.12
+
+0.4.0.1
 	Added missing Localizer calls for vessel name (for stock vessels which use localization)
 	Added ClickThroughBlocker support to all windows
 	Added dynamic window ids to all windows
 
-0.0.4.0
+0.4.0.0
 	Adoption by Linuxgurugamer
 	Note:  Latest code was included in the release, but was not updated on Github
 	Updated for KSP 1.8
